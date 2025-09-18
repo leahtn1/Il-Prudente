@@ -20,6 +20,7 @@
 #define DP 7
 
 void init_pins();
+void init_timer();
 void display_num(uint32 x);
 
 #endif
